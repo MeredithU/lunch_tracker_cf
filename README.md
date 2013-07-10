@@ -1,1 +1,1 @@
-An app to track someones lunch.
+An app to track someone's lunch.
